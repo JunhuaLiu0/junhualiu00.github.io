@@ -13,7 +13,7 @@ body {
 }
 */
 html {
-  background-color: #eeeeee; 
+  background-color: white; 
 }
 
 body { 
@@ -29,7 +29,7 @@ body {
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 30px;
-  max-width: 960px;
+  max-width: 720px;
 }
 
 #layout-menu {
@@ -62,7 +62,7 @@ body {
 
 #layout-menu a {
 	line-height: 1.5em;
-	margin-left: 0.5em;
+	margin-left: 1.2em;
 }
 
 tt {
@@ -109,8 +109,8 @@ div.menu-item {
 }
 
 div#toptitle {
-	padding-bottom: 0.2em;
-	margin-bottom: 1.5em;
+	padding-bottom: 0em;
+	margin-bottom: 0em;
 	/*border-bottom: 3px double gray;*/
 }
 
@@ -136,27 +136,27 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
-	margin-top: 0.7em;
-	margin-bottom: 0.5em;
+	color: #000000;
+	margin-top: 0em;
+	margin-bottom: 0em;
 	padding-bottom: 0.2em;
 	line-height: 1.0;
 	padding-top: 0.5em;
-	border-bottom: 1px solid #aaaaaa;
+	border-bottom: 0px solid #aaaaaa;
 }
 
 h1 {
 	font-size: 165%;
-	padding-bottom: 0.3em;
+	padding-bottom: 0.1em;
 }
 
 h2 {
-	padding-top: 0.8em;
+	padding-top: 0em;
 	font-size: 125%;
 }
 
 h2 + h3 {
-    padding-top: 0.2em;
+    padding-top: 0em;
 }
 
 h3 {
@@ -197,6 +197,7 @@ ul, ol, dl {
 	margin-top: 0.2em;
 	padding-top: 0;
 	margin-bottom: 0.8em;
+	color: #000000;
 }
 
 dt {
@@ -356,7 +357,7 @@ img.eqwl {
 }
 
 table + table {
-    margin-top: 1em;
+    margin-top: -2em;
 }
 
 tr.heading {
