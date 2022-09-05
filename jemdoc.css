@@ -367,7 +367,7 @@ img.eqwl {
 }
 
 table + table {
-    margin-top: -2em;
+    margin-top: 1em;
 }
 
 tr.heading {
